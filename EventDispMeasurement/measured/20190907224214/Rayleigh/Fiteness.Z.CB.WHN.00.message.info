@@ -1,0 +1,21 @@
+success: True
+nit: 15
+misfit: 0.0022640920326682224
+deltac variation: 0.20000 # Percentage
+frequency band: 0.01800 0.06000 # Hz
+group velocity range: 1.50000 4.50000 # km/s
+dist: 913.52551 # Km
+baz: 265.74359 # deg
+minlen, maxlen: (1000.00000, 2000.00000) # s
+amplification_mag: 10.00000 # Percentage
+amp_variation: 0.99000 # Percentage
+freq_lower(Hz) freq_upper(Hz) sub_misfit
+0.01275 0.02325 0.00251
+0.01800 0.02850 0.00211
+0.02325 0.03375 0.00128
+0.02850 0.03900 0.00195
+0.03375 0.04425 0.00345
+0.03900 0.04950 0.00221
+0.04425 0.05475 0.00187
+0.04950 0.06000 0.00320
+0.05475 0.06525 0.00180
